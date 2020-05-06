@@ -55,7 +55,7 @@ public class Main {
     }
 
     /**
-     * turns a character array in to a string 
+     * turns a character array in to a string
      * 
      * @param in
      * @return returns the string representation of the character array

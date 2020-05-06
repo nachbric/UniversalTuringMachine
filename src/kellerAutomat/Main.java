@@ -59,7 +59,7 @@ public class Main {
      * 
      * @param in
      * @return returns the string representation of the character array
-     */
+     */ 
     private static String characterArr2Str(Character[] in) {
         String s = "";
         for (Character c : in) {

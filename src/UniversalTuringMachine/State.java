@@ -3,9 +3,8 @@ package UniversalTuringMachine;
 import java.util.ArrayList;
 import java.util.List;
 /**
- * @author R.N
- * 
  * generic state class
+ *
  * @param <T>
  */
 public class State<T> {
